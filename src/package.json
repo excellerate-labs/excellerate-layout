@@ -1,0 +1,19 @@
+{
+  "name": "excellerate-layout",
+  "version": "0.0.1",
+  "description": "Excellerate Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excellerate-labs/excellerate-layout.git"
+  },
+  "author": "Ucok Freddy <ucokfm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/excellerate-labs/excellerate-layout/issues"
+  },
+  "homepage": "https://github.com/excellerate-labs/excellerate-layout#readme"
+}
